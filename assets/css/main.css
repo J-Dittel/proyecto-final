@@ -1376,7 +1376,7 @@ ul.contact {
       font-family: 'Font Awesome 5 Free';
       font-weight: 400; }
     ul.contact li:before {
-      color: #f56a6a;
+      color:#584863 ;
       display: inline-block;
       font-size: 1.5em;
       height: 1.125em;
@@ -1495,8 +1495,8 @@ button,
   background-color: transparent;
   border-radius: 0.375em;
   border: 0;
-  box-shadow: inset 0 0 0 2px #f56a6a;
-  color: #f56a6a !important;
+  box-shadow: inset 0 0 0 2px #7D6775;
+  color: #9F9D77 !important;
   cursor: pointer;
   display: inline-block;
   font-family: "Roboto Slab", serif;
@@ -1642,7 +1642,7 @@ button,
       text-align: center;
       width: 10em; }
       .features article .icon:before {
-        color: #f56a6a;
+        color: #AFC5D3;
         font-size: 2.75rem;
         position: relative;
         top: 0.05em; }
@@ -2187,7 +2187,8 @@ button,
 
 /* Footer */
 #footer .copyright {
-  color: #9fa3a6;
+  background: #584863;
+  color: #D9BFB0;
   font-size: 0.9em; }
   #footer .copyright a {
     color: inherit; }
